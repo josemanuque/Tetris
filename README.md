@@ -1,6 +1,7 @@
 # Tetris
 
-- Tetris Game
+- Tetris Game.
+- 10 Increasing Levels.
 - Load/Save State.
 - Leaderboard with Top 10 players.
 
